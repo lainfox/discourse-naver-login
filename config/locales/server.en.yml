@@ -1,0 +1,6 @@
+# encoding: utf-8
+
+en:
+  site_settings:
+    naver_client_id: "Client id for Naver authentication, registered at http://developer.naver.com/wiki/pages/NaverLogin"
+    naver_client_secret: "Client secret for Naver authentication, registered at http://developer.naver.com/wiki/pages/NaverLogin"

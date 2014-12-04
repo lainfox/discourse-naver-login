@@ -1,0 +1,8 @@
+# encoding: utf-8
+
+en:
+  js:
+    login:
+      naver:
+        title: "with Naver"
+        message: "Authenticating with Naver (make sure pop up blockers are not enabled)"

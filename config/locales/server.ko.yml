@@ -1,0 +1,6 @@
+# encoding: utf-8
+
+ko:
+  site_settings:
+    naver_client_id: "client ID, http://developer.naver.com/wiki/pages/NaverLogin"
+    naver_client_secret: "client secret key, http://developer.naver.com/wiki/pages/NaverLogin"
