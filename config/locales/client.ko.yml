@@ -4,5 +4,5 @@ ko:
   js:
     login:
       naver:
-        title: "with Naver"
+        title: "네이버 계정"
         message: "네이버로 로그인 합니다.(팝업을 풀어야 할 수도 있어요)"
